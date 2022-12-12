@@ -1,9 +1,9 @@
-url: https://y7kim.github.io
+url: https://jlstewart12.github.io/JS_Portfolio_E/
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Jeremy Stewart
+email: jlstewart12@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -53,7 +53,7 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/jlstewart12
 
 # Postal address (add as many lines as necessary)
 address:

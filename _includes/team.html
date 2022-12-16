@@ -15,10 +15,10 @@
                         <!-- <h4>{{ member.name }}</h4> -->
                         <!-- <p class="text-muted">{{ member.position }}</p> -->
                         <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
+                            {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
+                                <a href="{{ social.url }}">
+                                    <i class="fa fa-{{ social.title }}"></i>
                                 </a>
                             </li>
                             {% endfor %}

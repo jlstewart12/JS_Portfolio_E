@@ -14,9 +14,11 @@ people:
   position: Data Engineer
   social:
     - title: github
-      url: #
+      url: http://github.com/jlstewart12
     - title: LinkedIn
-      url: #
+      url: https://www.linkedin.com/in/jeremy-stewart-11512015b/
+    - title: Tableau
+      url: https://public.tableau.com/app/profile/jeremy3907
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

@@ -58,7 +58,7 @@ h6 {
 }
 
 .img-centered {
-    margin: 0 auto;
+    margin: auto;
 }
 
 .bg-light-gray {
@@ -633,13 +633,20 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom:50px;
     text-align: center;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .team-member img {
+    display: block;
     margin: 0 auto;
     border: 7px solid #fff;
+    width: 30%;
+    height: 30%;
 }
 
 .team-member h4 {

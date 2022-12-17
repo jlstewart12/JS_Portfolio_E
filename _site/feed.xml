@@ -5,20 +5,20 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 16 Dec 2022 21:34:01 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2022 21:34:01 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Dec 2022 13:48:57 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 13:48:57 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Dreams</title>
+        <title>Sensemaking Pipeline</title>
         <description>
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Sat, 09 Jul 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/data%20ops,%20orchestration/2022/07/09/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/data%20ops,%20orchestration/2022/07/09/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>Data Ops, Orchestration</category>
         
       </item>
     

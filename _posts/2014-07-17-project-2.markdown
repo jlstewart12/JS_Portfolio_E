@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Analyzing Live Streaming Data
+subtitle: Data Management
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2022-07-17
+img: RuleChain.png
+thumbnail: TBpage-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: July 2022
+client: 
+category: Big Data Management
+description: Using Mosquitto and MQTT protocol to handle large volumes of data along with ThingsBoard to stream the data.
 
 ---

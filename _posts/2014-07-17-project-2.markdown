@@ -1,6 +1,6 @@
 ---
 title: Analyzing Live Streaming Data
-subtitle: Data Management
+subtitle: IoT Data Management
 layout: default
 modal-id: 2
 date: 2022-07-17
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: July 2022
 client: 
 category: Big Data Management
-description: Using Mosquitto and MQTT protocol to handle large volumes of data along with ThingsBoard to stream the data.
+description: Using Mosquitto and MQTT protocol to handle large volumes of data and utiliziting ThingsBoard to manage the rapid development
 
 ---

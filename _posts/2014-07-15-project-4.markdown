@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2022
 client: 
 category: Data Architecture
-description: This project showcases how using ETL processes in Python and SQL can help identify and predict spending trends.
+description: This project showcases how using ETL processes in Python and SQL help identify and predict spending trends.
 
 ---

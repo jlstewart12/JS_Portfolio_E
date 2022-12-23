@@ -1,5 +1,5 @@
-# url: https://jlstewart12.github.io/JS_Portfolio_E/
-# baseurl: ""
+# url: https://jlstewart12.github.io
+# baseurl: /JS_Portfolio_E/
 
 # Site settings
 title: Jeremy Stewart
@@ -24,14 +24,13 @@ people:
 social:
   - title: github
     url: http://github.com/jlstewart12
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/jeremy-stewart-11512015b/
   - title: Tableau
     url: https://public.tableau.com/app/profile/jeremy3907
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 
+address: 
   - line: Indianapolis, IN
 
 # Build settings

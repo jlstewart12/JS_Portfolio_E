@@ -8,7 +8,7 @@ img: word_count_viz.png
 thumbnail: pipeline-thumbnail.png
 alt: image-alt
 project-date: July 2022
-client: Readme
+client: Sensemaking-Data-Pipeline
 category: Data Ops, Orchestration
 description: Analysis of unstructured course catalog data and word frequency visualizion using the D3js library 
 

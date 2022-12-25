@@ -8,7 +8,7 @@ img: industry_comparisons.png
 thumbnail: static_sheet-thumbnail.png
 alt: image-alt
 project-date: March 2022
-client: 
+client: Monthly_Retail_Trade_Report_ETL_Analysis
 category: Data Architecture
 description: This project showcases how using ETL processes in Python and SQL help identify and predict spending trends.
 

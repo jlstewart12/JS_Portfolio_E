@@ -8,7 +8,7 @@ img: predictions.png
 thumbnail: GrLivArea-thumbnail.png
 alt: image-alt
 project-date: Feb 2022
-client: 
+client: Predicting-House-Prices
 category: Data Science
 description: The goal here is to predict the sale price of a house using the relationship between the independent and dependent variables.
 

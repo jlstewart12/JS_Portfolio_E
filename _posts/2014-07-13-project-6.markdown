@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2020
 client: JS_Portfolio_E.github.io/#portfolioModal6
 category: DataOps
-description: Aggregated data extracted from the Citi Bike Trip History Logs and visualized some unexpected phenomena using Tableau. Interact with the visualizations <a href="https://public.tableau.com/app/profile/jeremy3907/viz/CitiBikeAnalysis_15886404755690/Story1">here.</a>
+description: Aggregated data extracted from the Citi Bike Trip History Logs and visualized some unexpected phenomena using Tableau. Interact with the visualizations <a href="https://public.tableau.com/app/profile/jeremy3907/viz/CitiBikeAnalysis_15886404755690/Story1" target="_blank" rel="noopener noreferrer">here.</a>
 
 ---

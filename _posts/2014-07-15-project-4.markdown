@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2022-03-09
 img: industry_comparisons.png
-thumbnail: static_sheet-thumbnail.png
+thumbnail: DashDemo.gif
 alt: image-alt
 project-date: March 2022
 client: Monthly_Retail_Trade_Report_ETL_Analysis
